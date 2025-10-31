@@ -1,4 +1,4 @@
-stramlit==1.35.0
+streamlit==1.35.0
 pyarrow<17
 joblib
 numpy
